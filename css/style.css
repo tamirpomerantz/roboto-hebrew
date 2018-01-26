@@ -1,0 +1,111 @@
+/*
+CSS file created with:Instantblueprint - Create a web project framework in seconds.
+http://instantblueprint.com
+Project: Simple
+File: css/style.css
+Last edited: January 16, 2016, 5:52 pm
+*/
+
+
+@font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Regular.otf') format('opentype'); 
+    font-weight:400;
+  }
+
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Black.otf') format('opentype'); 
+    font-weight:900;
+  }
+
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Bold.otf') format('opentype'); 
+    font-weight:700;
+  }
+
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-ExtraBold.otf') format('opentype'); 
+    font-weight:800;
+  }
+  
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Light.otf') format('opentype'); 
+    font-weight:300;
+  }
+  
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Thin.otf') format('opentype'); 
+    font-weight:200;
+  }
+
+  @font-face {
+    font-family: 'r';
+    src: url('../Export/RobHeb-Medium.otf') format('opentype'); 
+    font-weight:500;
+  }
+  
+
+/*  Main  */
+body {
+ background:#FFF;
+ color:rgba(0,0,0,0.87);
+ font-family: 'r';
+ font-size: 10px;
+ direction: rtl;
+}
+
+#wrapper {
+ margin:0 auto;
+ padding:16px;
+ max-width:960px; /*  Change to desired width :)  */
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 56px;
+    font-weight:200;
+    padding-bottom:16px;
+}
+
+h2 {
+    font-size: 24px;
+    line-height:32px;
+    font-weight:400;
+    padding-bottom:16px;
+    
+}
+
+h3 {
+    font-size: 20px;
+    line-height:28px;
+    font-weight:500;
+    padding-bottom:8px;    
+}
+h4 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight:400;
+    padding-bottom:8px;    
+    
+}
+p {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight:400;
+    padding-bottom:8px;    
+    
+}
+h5 {
+    font-size: 14px;
+    font-weight:500;
+    line-height: 22px;
+    padding-bottom:8px;        
+}
+
+
+
