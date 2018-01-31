@@ -52,6 +52,8 @@ Last edited: January 16, 2016, 5:52 pm
 
 /*  Main  */
 body {
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
  background:#FFF;
  color:rgba(0,0,0,0.87);
  font-family: 'r';
