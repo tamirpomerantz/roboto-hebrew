@@ -29782,7 +29782,7 @@ unicode = 05F1;
 },
 {
 glyphname = yodyodhebrew;
-lastChange = "2018-03-03 06:34:15 +0000";
+lastChange = "2018-03-24 13:40:23 +0000";
 layers = (
 {
 components = (
@@ -29801,30 +29801,31 @@ width = 1084;
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 710, 0}";
+transform = "{1, 0, 0, 1, 680, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "0FAE9C79-C14E-4D62-87C8-5A68E12B9849";
-width = 1420;
+width = 1360;
 },
 {
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 631, 0}";
+transform = "{1, 0, 0, 1, 661, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "3A1161A8-2FC1-4350-92D1-D5E808DF9456";
-width = 1262;
+width = 1322;
 }
 );
 unicode = 05F2;
+changeCount = 1;
 },
 {
 glyphname = aleflamedhebrew;
