@@ -4,7 +4,8 @@ DisplayStrings = (
 "/pehebrew",
 "/alefhebrew",
 "/hehebrew",
-"/ayinaltonehebrew"
+"/ayinaltonehebrew",
+"/pehebrew/vavhebrew/nunhebrew/tethebrew/space/reshhebrew/vavhebrew/bethebrew/vavhebrew/tethebrew/vavhebrew/space/ayinhebrew/bethebrew/reshhebrew/yodhebrew/tavhebrew"
 );
 copyright = "Copyright © 2017 by Tamir Pomerantz (Heebo by Oded Ezer). All rights reserved.";
 customParameters = (
@@ -36785,7 +36786,7 @@ unicode = 05E6;
 },
 {
 glyphname = qofhebrew;
-lastChange = "2025-09-27 05:44:33 +0000";
+lastChange = "2025-09-27 06:16:33 +0000";
 layers = (
 {
 anchors = (
@@ -36945,6 +36946,7 @@ width = 1203;
 }
 );
 unicode = 05E7;
+changeCount = 7;
 },
 {
 glyphname = reshhebrew;
@@ -37640,7 +37642,7 @@ unicode = 05E9;
 },
 {
 glyphname = tavhebrew;
-lastChange = "2025-09-27 05:53:02 +0000";
+lastChange = "2025-09-27 06:16:05 +0000";
 layers = (
 {
 anchors = (
@@ -37870,6 +37872,7 @@ width = 1392;
 }
 );
 unicode = 05EA;
+changeCount = 7;
 },
 {
 glyphname = yodyodpatahhebrew;
@@ -61538,6 +61541,9 @@ c = -24;
 parenright = 20;
 quotesingle = 16;
 };
+hehebrew = {
+tavhebrew = 60;
+};
 k = {
 c = -20;
 };
@@ -61594,6 +61600,9 @@ T = -40;
 };
 t = {
 o = -20;
+};
+tavhebrew = {
+qofhebrew = -60;
 };
 v = {
 a = -15;
