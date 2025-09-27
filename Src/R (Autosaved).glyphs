@@ -1,7 +1,10 @@
 {
 .appVersion = "1365";
 DisplayStrings = (
-"/pehebrew"
+"/pehebrew",
+"/alefhebrew",
+"/hehebrew",
+"/ayinaltonehebrew"
 );
 copyright = "Copyright © 2017 by Tamir Pomerantz (Heebo by Oded Ezer). All rights reserved.";
 customParameters = (
@@ -37916,25 +37919,25 @@ unicode = FB1F;
 },
 {
 glyphname = ayinaltonehebrew;
-lastChange = "2016-02-28 19:55:05 +0000";
+lastChange = "2025-09-27 06:12:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{507, 0}";
+position = "{517, 0}";
 },
 {
 name = center;
-position = "{587, 603}";
+position = "{597, 603}";
 },
 {
 name = top;
-position = "{546, 1157}";
+position = "{556, 1157}";
 },
 {
 name = topleft;
-position = "{1, 1157}";
+position = "{11, 1157}";
 }
 );
 layerId = "445B0B85-2678-4800-8A4D-B1A9856CF63B";
@@ -37942,41 +37945,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"705 -37 OFFCURVE",
-"879 123 OFFCURVE",
-"894 416 CURVE SMOOTH",
-"933 1157 LINE",
-"878 1157 LINE",
-"839 416 LINE SMOOTH",
-"825 156 OFFCURVE",
-"672 15 OFFCURVE",
-"432 15 CURVE SMOOTH",
-"333 15 OFFCURVE",
-"219 39 OFFCURVE",
-"94 89 CURVE",
-"70 40 LINE",
-"204 -12 OFFCURVE",
-"327 -37 OFFCURVE",
-"434 -37 CURVE SMOOTH"
+"715 -37 OFFCURVE",
+"889 123 OFFCURVE",
+"904 416 CURVE SMOOTH",
+"943 1157 LINE",
+"888 1157 LINE",
+"849 416 LINE SMOOTH",
+"835 156 OFFCURVE",
+"682 15 OFFCURVE",
+"442 15 CURVE SMOOTH",
+"343 15 OFFCURVE",
+"229 39 OFFCURVE",
+"104 89 CURVE",
+"80 40 LINE",
+"214 -12 OFFCURVE",
+"337 -37 OFFCURVE",
+"444 -37 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"360 254 LINE SMOOTH",
-"385 143 OFFCURVE",
-"406 88 OFFCURVE",
-"449 12 CURVE",
-"507 8 LINE",
-"467 78 OFFCURVE",
-"444 144 OFFCURVE",
-"417 264 CURVE SMOOTH",
-"214 1157 LINE",
-"155 1157 LINE"
+"370 254 LINE SMOOTH",
+"395 143 OFFCURVE",
+"416 88 OFFCURVE",
+"459 12 CURVE",
+"517 8 LINE",
+"477 78 OFFCURVE",
+"454 144 OFFCURVE",
+"427 264 CURVE SMOOTH",
+"224 1157 LINE",
+"165 1157 LINE"
 );
 }
 );
-width = 1123;
+width = 1063;
 },
 {
 anchors = (
@@ -38102,6 +38105,7 @@ width = 1227;
 leftMetricsKey = ayinhebrew;
 rightMetricsKey = ayinhebrew;
 unicode = FB20;
+changeCount = 2;
 },
 {
 glyphname = widealefhebrew;
@@ -40496,6 +40500,7 @@ width = 1164;
 leftMetricsKey = pehebrew;
 rightMetricsKey = pehebrew;
 unicode = FB44;
+changeCount = 1;
 },
 {
 glyphname = tsadidageshhebrew;
@@ -40926,6 +40931,7 @@ width = 1164;
 }
 );
 unicode = FB4E;
+changeCount = 1;
 },
 {
 glyphname = gimelhebrew.001;
