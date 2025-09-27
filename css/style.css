@@ -199,3 +199,25 @@ body {
   gap: 16px;
 }
 
+@media (max-width: 768px) {
+  .xxxl {
+    font-size: 72px;
+  }
+  .xxl {
+    font-size: 64px;
+  }
+  .xl {
+    font-size: 30px;
+  }
+  .lg {
+    font-size: 24px;
+  }
+  .button-wrap {
+    font-size: 16px;
+    padding: 6px 18px;
+  }
+  .button-outline {
+    font-size: 16px;
+    padding: 6px 18px;
+  }
+}
