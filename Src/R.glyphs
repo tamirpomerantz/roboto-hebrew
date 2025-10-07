@@ -1,7 +1,7 @@
 {
 .appVersion = "1365";
 DisplayStrings = (
-"/bethebrew/lamedhebrew/reshhebrew/yodhebrew/nunhebrew/hehebrew",
+"/zayinhebrew/yodhebrew/memhebrew/hehebrew/space/bethebrew/lamedhebrew/reshhebrew/yodhebrew/nunhebrew/hehebrew",
 "/alefhebrew",
 "/hehebrew",
 "/ayinaltonehebrew",
@@ -30963,7 +30963,7 @@ unicode = 05D3;
 },
 {
 glyphname = hehebrew;
-lastChange = "2025-09-27 05:49:23 +0000";
+lastChange = "2025-10-02 11:34:20 +0000";
 layers = (
 {
 anchors = (
@@ -32441,7 +32441,7 @@ unicode = 05DD;
 },
 {
 glyphname = memhebrew;
-lastChange = "2025-10-02 11:28:55 +0000";
+lastChange = "2025-10-02 11:34:24 +0000";
 layers = (
 {
 anchors = (
@@ -62096,6 +62096,9 @@ quoteright = -104;
 k = {
 c = -20;
 };
+memhebrew = {
+hehebrew = -60;
+};
 n = {
 quoteright = -120;
 quotesingle = -80;
@@ -62166,6 +62169,9 @@ period = -124;
 x = {
 c = -20;
 o = -40;
+};
+yodhebrew = {
+memhebrew = -90;
 };
 z = {
 c = -16;
