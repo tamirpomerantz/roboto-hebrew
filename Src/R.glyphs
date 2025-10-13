@@ -1,5 +1,5 @@
 {
-.appVersion = "1365";
+.appVersion = "1364";
 DisplayStrings = (
 "/zayinhebrew/yodhebrew/memhebrew/hehebrew/space/bethebrew/lamedhebrew/reshhebrew/yodhebrew/nunhebrew/hehebrew",
 "/alefhebrew",
@@ -7,7 +7,7 @@ DisplayStrings = (
 "/ayinaltonehebrew",
 "/gimelhebrew/vavhebrew/pehebrew/finalnunhebrew/space/pehebrew/reshhebrew/vavhebrew/bethebrew/vavhebrew/tethebrew/vavhebrew",
 "/alefhebrew/lamedhebrew/aleflamedhebrew",
-"/alefhebrew/aleflamedhebrew"
+"/gimelhebrew/dalethebrew/shinhebrew/gimelhebrew/shinhebrew/dalethebrew/gimelhebrew/dalethebrew/shinhebrew"
 );
 copyright = "Copyright © 2017 by Tamir Pomerantz (Heebo by Oded Ezer). All rights reserved.";
 customParameters = (
@@ -25,7 +25,7 @@ value = (
 );
 }
 );
-date = "2017-12-20 10:03:56 +0000";
+date = "2017-12-20 10:03:56 AM +0000";
 designer = "Tamir Pomerantz (Heebo by Oded Ezer)";
 designerURL = tamirp.com;
 disablesNiceNames = 1;
@@ -29790,46 +29790,46 @@ unicode = 05F1;
 },
 {
 glyphname = yodyodhebrew;
-lastChange = "2025-09-26 15:16:32 +0000";
+lastChange = "2025-10-13 05:47:07 +0000";
 layers = (
 {
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 542, 0}";
+transform = "{1, 0, 0, 1, 592, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "445B0B85-2678-4800-8A4D-B1A9856CF63B";
-width = 1084;
+width = 1134;
 },
 {
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 705, 0}";
+transform = "{1, 0, 0, 1, 725, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "0FAE9C79-C14E-4D62-87C8-5A68E12B9849";
-width = 1410;
+width = 1430;
 },
 {
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 661, 0}";
+transform = "{1, 0, 0, 1, 691, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "3A1161A8-2FC1-4350-92D1-D5E808DF9456";
-width = 1322;
+width = 1352;
 }
 );
 unicode = 05F2;
@@ -30023,7 +30023,7 @@ unicode = FB4F;
 },
 {
 glyphname = alefhebrew;
-lastChange = "2025-09-27 05:44:53 +0000";
+lastChange = "2025-10-13 05:42:39 +0000";
 layers = (
 {
 anchors = (
@@ -30366,7 +30366,7 @@ unicode = 05D0;
 },
 {
 glyphname = bethebrew;
-lastChange = "2025-09-27 05:47:53 +0000";
+lastChange = "2025-10-13 05:47:43 +0000";
 layers = (
 {
 anchors = (
@@ -30523,7 +30523,7 @@ unicode = 05D1;
 },
 {
 glyphname = gimelhebrew;
-lastChange = "2025-10-02 11:31:12 +0000";
+lastChange = "2025-10-13 05:46:32 +0000";
 layers = (
 {
 anchors = (
@@ -30845,7 +30845,7 @@ unicode = 05D2;
 },
 {
 glyphname = dalethebrew;
-lastChange = "2025-09-27 05:51:21 +0000";
+lastChange = "2025-10-13 05:38:48 +0000";
 layers = (
 {
 anchors = (
@@ -30963,7 +30963,7 @@ unicode = 05D3;
 },
 {
 glyphname = hehebrew;
-lastChange = "2025-10-02 11:34:20 +0000";
+lastChange = "2025-10-13 05:46:39 +0000";
 layers = (
 {
 anchors = (
@@ -31120,7 +31120,7 @@ unicode = 05D4;
 },
 {
 glyphname = vavhebrew;
-lastChange = "2025-09-27 05:41:49 +0000";
+lastChange = "2025-10-13 05:43:58 +0000";
 layers = (
 {
 anchors = (
@@ -31232,7 +31232,7 @@ unicode = 05D5;
 },
 {
 glyphname = zayinhebrew;
-lastChange = "2025-10-02 11:29:22 +0000";
+lastChange = "2025-10-13 05:47:46 +0000";
 layers = (
 {
 anchors = (
@@ -31401,7 +31401,7 @@ unicode = 05D6;
 },
 {
 glyphname = hethebrew;
-lastChange = "2025-09-27 05:51:01 +0000";
+lastChange = "2025-10-13 05:50:17 +0000";
 layers = (
 {
 anchors = (
@@ -31569,7 +31569,7 @@ unicode = 05D7;
 },
 {
 glyphname = tethebrew;
-lastChange = "2025-09-27 05:48:29 +0000";
+lastChange = "2025-10-13 05:48:18 +0000";
 layers = (
 {
 anchors = (
@@ -31747,7 +31747,7 @@ unicode = 05D8;
 },
 {
 glyphname = yodhebrew;
-lastChange = "2025-10-02 11:28:00 +0000";
+lastChange = "2025-10-13 05:42:55 +0000";
 layers = (
 {
 anchors = (
@@ -31859,7 +31859,7 @@ unicode = 05D9;
 },
 {
 glyphname = finalkafhebrew;
-lastChange = "2025-09-27 05:52:57 +0000";
+lastChange = "2025-10-13 05:44:03 +0000";
 layers = (
 {
 anchors = (
@@ -31971,7 +31971,7 @@ unicode = 05DA;
 },
 {
 glyphname = kafhebrew;
-lastChange = "2025-09-27 05:52:48 +0000";
+lastChange = "2025-10-13 05:43:00 +0000";
 layers = (
 {
 anchors = (
@@ -32125,7 +32125,7 @@ unicode = 05DB;
 },
 {
 glyphname = lamedhebrew;
-lastChange = "2025-09-27 05:51:33 +0000";
+lastChange = "2025-10-13 05:50:29 +0000";
 layers = (
 {
 anchors = (
@@ -32290,7 +32290,7 @@ unicode = 05DC;
 },
 {
 glyphname = finalmemhebrew;
-lastChange = "2025-09-27 05:50:14 +0000";
+lastChange = "2025-10-13 05:43:47 +0000";
 layers = (
 {
 anchors = (
@@ -32441,7 +32441,7 @@ unicode = 05DD;
 },
 {
 glyphname = memhebrew;
-lastChange = "2025-10-02 11:34:24 +0000";
+lastChange = "2025-10-13 05:43:22 +0000";
 layers = (
 {
 anchors = (
@@ -34415,7 +34415,7 @@ unicode = 05DE;
 },
 {
 glyphname = finalnunhebrew;
-lastChange = "2025-09-27 05:53:45 +0000";
+lastChange = "2025-10-13 05:45:03 +0000";
 layers = (
 {
 anchors = (
@@ -34527,7 +34527,7 @@ unicode = 05DF;
 },
 {
 glyphname = nunhebrew;
-lastChange = "2025-10-02 11:33:18 +0000";
+lastChange = "2025-10-13 05:48:30 +0000";
 layers = (
 {
 anchors = (
@@ -34724,7 +34724,7 @@ unicode = 05E0;
 },
 {
 glyphname = samekhhebrew;
-lastChange = "2025-09-27 05:50:23 +0000";
+lastChange = "2025-10-13 05:48:02 +0000";
 layers = (
 {
 anchors = (
@@ -34949,7 +34949,7 @@ unicode = 05E1;
 },
 {
 glyphname = ayinhebrew;
-lastChange = "2025-09-27 06:00:11 +0000";
+lastChange = "2025-10-13 05:50:50 +0000";
 layers = (
 {
 anchors = (
@@ -35124,7 +35124,7 @@ unicode = 05E2;
 },
 {
 glyphname = finalpehebrew;
-lastChange = "2025-09-27 05:49:32 +0000";
+lastChange = "2025-10-13 05:48:59 +0000";
 layers = (
 {
 anchors = (
@@ -35293,7 +35293,7 @@ unicode = 05E3;
 },
 {
 glyphname = pehebrew;
-lastChange = "2025-09-27 06:10:39 +0000";
+lastChange = "2025-10-13 05:47:16 +0000";
 layers = (
 {
 anchors = (
@@ -36320,7 +36320,7 @@ unicode = 05E4;
 },
 {
 glyphname = finaltsadihebrew;
-lastChange = "2025-09-27 05:54:39 +0000";
+lastChange = "2025-10-13 05:50:58 +0000";
 layers = (
 {
 anchors = (
@@ -36634,7 +36634,7 @@ unicode = 05E5;
 },
 {
 glyphname = tsadihebrew;
-lastChange = "2025-09-27 05:44:19 +0000";
+lastChange = "2025-10-13 05:40:59 +0000";
 layers = (
 {
 anchors = (
@@ -36880,7 +36880,7 @@ unicode = 05E6;
 },
 {
 glyphname = qofhebrew;
-lastChange = "2025-09-27 06:16:33 +0000";
+lastChange = "2025-10-13 05:49:11 +0000";
 layers = (
 {
 anchors = (
@@ -37043,7 +37043,7 @@ unicode = 05E7;
 },
 {
 glyphname = reshhebrew;
-lastChange = "2025-09-27 05:44:42 +0000";
+lastChange = "2025-10-13 05:49:28 +0000";
 layers = (
 {
 anchors = (
@@ -37198,7 +37198,7 @@ unicode = 05E8;
 },
 {
 glyphname = shinhebrew;
-lastChange = "2025-09-27 05:54:17 +0000";
+lastChange = "2025-10-13 05:49:49 +0000";
 layers = (
 {
 anchors = (
@@ -37735,7 +37735,7 @@ unicode = 05E9;
 },
 {
 glyphname = tavhebrew;
-lastChange = "2025-09-27 06:16:05 +0000";
+lastChange = "2025-10-13 05:51:05 +0000";
 layers = (
 {
 anchors = (
@@ -37968,7 +37968,7 @@ unicode = 05EA;
 },
 {
 glyphname = yodyodpatahhebrew;
-lastChange = "2025-09-26 15:16:32 +0000";
+lastChange = "2025-10-13 05:47:07 +0000";
 layers = (
 {
 components = (
@@ -37981,7 +37981,7 @@ transform = "{1, 0, 0, 1, -200, 0}";
 }
 );
 layerId = "445B0B85-2678-4800-8A4D-B1A9856CF63B";
-width = 1084;
+width = 1134;
 },
 {
 components = (
@@ -37994,7 +37994,7 @@ transform = "{1, 0, 0, 1, -228, 0}";
 }
 );
 layerId = "0FAE9C79-C14E-4D62-87C8-5A68E12B9849";
-width = 1410;
+width = 1430;
 },
 {
 components = (
@@ -38007,7 +38007,7 @@ transform = "{1, 0, 0, 1, -179, 0}";
 }
 );
 layerId = "3A1161A8-2FC1-4350-92D1-D5E808DF9456";
-width = 1322;
+width = 1352;
 }
 );
 unicode = FB1F;
@@ -61601,11 +61601,57 @@ a = {
 quotesingle = -67;
 v = -15;
 };
+alefhebrew = {
+ayinhebrew = 20;
+dalethebrew = 20;
+finalkafhebrew = 50;
+finalmemhebrew = 50;
+finalnunhebrew = -30;
+gimelhebrew = 80;
+hehebrew = 40;
+hethebrew = 40;
+kafhebrew = 70;
+memhebrew = 40;
+reshhebrew = 40;
+tavhebrew = 30;
+tsadihebrew = 80;
+vavhebrew = 40;
+yodhebrew = 10;
+zayinhebrew = -10;
+};
+ayinhebrew = {
+alefhebrew = 20;
+ayinhebrew = 20;
+finalnunhebrew = -20;
+gimelhebrew = 40;
+hehebrew = 20;
+lamedhebrew = -60;
+nunhebrew = -80;
+qofhebrew = -50;
+shinhebrew = -90;
+tethebrew = -20;
+tsadihebrew = 40;
+zayinhebrew = -40;
+};
 b = {
 quotesingle = -29;
 v = -11;
 x = -15;
 z = -15;
+};
+bethebrew = {
+bethebrew = 20;
+finalnunhebrew = -40;
+finaltsadihebrew = 20;
+gimelhebrew = 20;
+kafhebrew = 70;
+nunhebrew = -40;
+pehebrew = 40;
+samekhhebrew = -40;
+shinhebrew = -60;
+tethebrew = -20;
+tsadihebrew = 40;
+zayinhebrew = 30;
 };
 braceleft = {
 J = -20;
@@ -61617,6 +61663,20 @@ U = -18;
 };
 c = {
 quotesingle = -11;
+};
+dalethebrew = {
+bethebrew = -50;
+dalethebrew = 20;
+finalmemhebrew = 10;
+finalpehebrew = -40;
+finaltsadihebrew = 40;
+lamedhebrew = 30;
+memhebrew = -20;
+qofhebrew = 50;
+samekhhebrew = -30;
+tsadihebrew = 60;
+yodhebrew = 20;
+zayinhebrew = 20;
 };
 e = {
 quoteright = -80;
@@ -61630,15 +61690,209 @@ c = -24;
 parenright = 20;
 quotesingle = 16;
 };
+finalkafhebrew = {
+alefhebrew = -50;
+bethebrew = -90;
+finalnunhebrew = -60;
+finalpehebrew = -40;
+gimelhebrew = -30;
+hehebrew = -20;
+hethebrew = -40;
+kafhebrew = -60;
+memhebrew = -40;
+samekhhebrew = -70;
+shinhebrew = -60;
+tavhebrew = -70;
+tethebrew = -50;
+};
+finalmemhebrew = {
+ayinhebrew = 20;
+bethebrew = 40;
+finalkafhebrew = 60;
+finalmemhebrew = 20;
+gimelhebrew = 40;
+hehebrew = 50;
+hethebrew = 30;
+kafhebrew = 60;
+memhebrew = 30;
+pehebrew = 20;
+reshhebrew = 20;
+samekhhebrew = 50;
+tavhebrew = 40;
+tethebrew = 40;
+tsadihebrew = 60;
+vavhebrew = 80;
+yodhebrew = 60;
+};
+finalnunhebrew = {
+bethebrew = -40;
+hethebrew = -40;
+pehebrew = -20;
+reshhebrew = -30;
+tavhebrew = -20;
+tethebrew = -50;
+tsadihebrew = 30;
+vavhebrew = 50;
+yodhebrew = 40;
+};
+finalpehebrew = {
+bethebrew = -40;
+finalmemhebrew = 40;
+finalpehebrew = 10;
+hehebrew = 40;
+kafhebrew = 50;
+memhebrew = 20;
+samekhhebrew = 30;
+tethebrew = 40;
+vavhebrew = 10;
+yodhebrew = 40;
+};
+finaltsadihebrew = {
+alefhebrew = -60;
+bethebrew = -130;
+finalnunhebrew = -80;
+finalpehebrew = -30;
+gimelhebrew = -40;
+hehebrew = -60;
+hethebrew = -80;
+kafhebrew = -80;
+lamedhebrew = -30;
+memhebrew = -70;
+nunhebrew = -120;
+pehebrew = -80;
+samekhhebrew = -90;
+shinhebrew = -120;
+tavhebrew = -90;
+tethebrew = -80;
+yodhebrew = -40;
+};
+gimelhebrew = {
+alefhebrew = 20;
+ayinhebrew = -20;
+bethebrew = 20;
+finalmemhebrew = 20;
+finaltsadihebrew = -20;
+gimelhebrew = 20;
+hehebrew = 30;
+lamedhebrew = -40;
+nunhebrew = -50;
+samekhhebrew = -40;
+shinhebrew = -70;
+tavhebrew = 30;
+tethebrew = -40;
+tsadihebrew = 40;
+yodhebrew = -50;
+};
 hehebrew = {
-tavhebrew = 60;
+alefhebrew = 40;
+ayinhebrew = 40;
+bethebrew = 60;
+finalkafhebrew = 80;
+finalmemhebrew = 50;
+finalpehebrew = 40;
+finaltsadihebrew = 40;
+gimelhebrew = 110;
+hehebrew = 40;
+hethebrew = 40;
+kafhebrew = 80;
+memhebrew = 30;
+pehebrew = 40;
+qofhebrew = 30;
+reshhebrew = 40;
+samekhhebrew = 20;
+tavhebrew = 20;
+tethebrew = 40;
+tsadihebrew = 80;
+vavhebrew = 60;
+yodhebrew = 40;
+};
+hethebrew = {
+alefhebrew = 30;
+bethebrew = 10;
+finalmemhebrew = 40;
+gimelhebrew = 40;
+hehebrew = 40;
+kafhebrew = 40;
+pehebrew = 40;
+qofhebrew = 30;
+shinhebrew = -20;
+tavhebrew = 40;
+tsadihebrew = 60;
+vavhebrew = 30;
 };
 k = {
 c = -20;
 };
+kafhebrew = {
+alefhebrew = 40;
+bethebrew = 60;
+dalethebrew = 20;
+finalmemhebrew = 60;
+gimelhebrew = 70;
+hehebrew = 80;
+lamedhebrew = 60;
+shinhebrew = -100;
+tsadihebrew = 70;
+vavhebrew = 30;
+};
+lamedhebrew = {
+alefhebrew = -20;
+ayinhebrew = 20;
+bethebrew = -80;
+finalkafhebrew = 40;
+finalnunhebrew = -60;
+finalpehebrew = -40;
+hethebrew = -40;
+memhebrew = -40;
+nunhebrew = -60;
+pehebrew = -60;
+reshhebrew = -30;
+samekhhebrew = -60;
+shinhebrew = -70;
+tavhebrew = -70;
+tsadihebrew = 30;
+};
+memhebrew = {
+alefhebrew = -40;
+bethebrew = -40;
+dalethebrew = -20;
+finalnunhebrew = -50;
+finaltsadihebrew = -40;
+gimelhebrew = 30;
+hethebrew = -40;
+lamedhebrew = -40;
+memhebrew = -30;
+nunhebrew = -50;
+pehebrew = -50;
+qofhebrew = -40;
+reshhebrew = -50;
+samekhhebrew = -40;
+shinhebrew = -100;
+tethebrew = -60;
+vavhebrew = 30;
+zayinhebrew = -30;
+};
 n = {
 quoteright = -80;
 quotesingle = -104;
+};
+nunhebrew = {
+alefhebrew = 10;
+finalnunhebrew = -70;
+finaltsadihebrew = -40;
+gimelhebrew = 20;
+hethebrew = 10;
+kafhebrew = -30;
+lamedhebrew = -40;
+nunhebrew = -10;
+qofhebrew = -40;
+samekhhebrew = -60;
+shinhebrew = -60;
+tethebrew = -20;
+tsadihebrew = 40;
+vavhebrew = 40;
+yodhebrew = -80;
+zayinhebrew = -40;
 };
 o = {
 quoteright = -80;
@@ -61652,8 +61906,39 @@ V = 20;
 W = 18;
 Y = 22;
 };
+pehebrew = {
+alefhebrew = 30;
+bethebrew = 40;
+finalmemhebrew = 60;
+gimelhebrew = 40;
+hehebrew = 40;
+hethebrew = 40;
+kafhebrew = 70;
+lamedhebrew = 40;
+memhebrew = 30;
+pehebrew = 0;
+qofhebrew = 40;
+reshhebrew = 40;
+samekhhebrew = 40;
+shinhebrew = -30;
+tavhebrew = 20;
+tethebrew = 50;
+tsadihebrew = 70;
+vavhebrew = 50;
+yodhebrew = 110;
+zayinhebrew = 30;
+};
 period = {
 quotesingle = -170;
+};
+qofhebrew = {
+dalethebrew = 30;
+hehebrew = 30;
+hethebrew = 20;
+kafhebrew = 50;
+memhebrew = 20;
+qofhebrew = -20;
+shinhebrew = -70;
 };
 quoteright = {
 l = 32;
@@ -61681,6 +61966,40 @@ t = 50;
 v = 18;
 w = 17;
 };
+reshhebrew = {
+bethebrew = -100;
+finalmemhebrew = -30;
+finalnunhebrew = -70;
+finalpehebrew = -60;
+hehebrew = -20;
+hethebrew = -60;
+memhebrew = -20;
+pehebrew = -40;
+qofhebrew = -40;
+samekhhebrew = -100;
+tavhebrew = -70;
+};
+samekhhebrew = {
+gimelhebrew = 30;
+qofhebrew = -20;
+tsadihebrew = 40;
+yodhebrew = 30;
+};
+shinhebrew = {
+ayinhebrew = 50;
+bethebrew = -20;
+finalkafhebrew = 50;
+finalmemhebrew = 40;
+finalpehebrew = 20;
+hethebrew = -30;
+kafhebrew = 50;
+lamedhebrew = 30;
+reshhebrew = 30;
+shinhebrew = -30;
+tsadihebrew = 40;
+vavhebrew = 60;
+yodhebrew = 30;
+};
 slash = {
 slash = -224;
 };
@@ -61691,7 +62010,50 @@ t = {
 o = -20;
 };
 tavhebrew = {
+dalethebrew = -50;
+finalkafhebrew = -40;
+finalnunhebrew = -100;
+finaltsadihebrew = -110;
+gimelhebrew = 10;
+lamedhebrew = -90;
+nunhebrew = -100;
+pehebrew = -50;
 qofhebrew = -60;
+samekhhebrew = -60;
+shinhebrew = -140;
+tavhebrew = -30;
+tethebrew = -30;
+tsadihebrew = 20;
+vavhebrew = 10;
+yodhebrew = -80;
+zayinhebrew = -60;
+};
+tethebrew = {
+ayinhebrew = 40;
+finalkafhebrew = 20;
+finalmemhebrew = 70;
+finaltsadihebrew = 50;
+gimelhebrew = 40;
+hehebrew = 40;
+kafhebrew = 60;
+pehebrew = 20;
+qofhebrew = 20;
+samekhhebrew = 20;
+tsadihebrew = 50;
+vavhebrew = 80;
+};
+tsadihebrew = {
+alefhebrew = 10;
+ayinhebrew = 20;
+finalmemhebrew = 40;
+gimelhebrew = 40;
+nunhebrew = -40;
+pehebrew = -30;
+qofhebrew = -30;
+samekhhebrew = -30;
+shinhebrew = -50;
+tsadihebrew = 40;
+vavhebrew = 20;
 };
 v = {
 a = -15;
@@ -61701,6 +62063,18 @@ o = -15;
 period = -107;
 quotesingle = 15;
 };
+vavhebrew = {
+alefhebrew = -30;
+finalnunhebrew = -60;
+finalpehebrew = -50;
+lamedhebrew = -40;
+memhebrew = -30;
+nunhebrew = -30;
+pehebrew = -30;
+samekhhebrew = -50;
+shinhebrew = -80;
+tethebrew = -30;
+};
 w = {
 period = -124;
 };
@@ -61708,9 +62082,34 @@ x = {
 c = -20;
 o = -20;
 };
+yodhebrew = {
+ayinhebrew = 20;
+dalethebrew = 70;
+finalpehebrew = -30;
+hehebrew = -10;
+hethebrew = -30;
+nunhebrew = -60;
+pehebrew = -10;
+samekhhebrew = -60;
+tavhebrew = -50;
+tethebrew = -30;
+yodhebrew = 50;
+};
 z = {
 c = -16;
 o = -16;
+};
+zayinhebrew = {
+bethebrew = -40;
+dalethebrew = 40;
+finalpehebrew = -10;
+gimelhebrew = 40;
+hehebrew = 40;
+memhebrew = -20;
+nunhebrew = -40;
+samekhhebrew = -20;
+shinhebrew = -40;
+zayinhebrew = 40;
 };
 };
 "3A1161A8-2FC1-4350-92D1-D5E808DF9456" = {
@@ -62061,11 +62460,48 @@ a = {
 quotesingle = -17;
 v = -15;
 };
+alefhebrew = {
+finalkafhebrew = 30;
+finalmemhebrew = 40;
+gimelhebrew = 60;
+hehebrew = 20;
+kafhebrew = 70;
+memhebrew = 40;
+nunhebrew = 50;
+pehebrew = 30;
+};
+ayinhebrew = {
+alefhebrew = -40;
+dalethebrew = -70;
+finalkafhebrew = -30;
+finalpehebrew = -60;
+kafhebrew = -20;
+lamedhebrew = -90;
+qofhebrew = -70;
+samekhhebrew = -20;
+shinhebrew = -50;
+tavhebrew = -30;
+tethebrew = -50;
+vavhebrew = -50;
+yodhebrew = -70;
+zayinhebrew = -60;
+};
 b = {
 quotesingle = -29;
 v = -11;
 x = -15;
 z = -15;
+};
+bethebrew = {
+alefhebrew = -70;
+ayinhebrew = -40;
+dalethebrew = -40;
+finalnunhebrew = -50;
+hehebrew = -30;
+samekhhebrew = -40;
+tavhebrew = -60;
+tethebrew = -30;
+yodhebrew = -30;
 };
 braceleft = {
 J = -20;
@@ -62077,6 +62513,19 @@ U = -18;
 };
 c = {
 quotesingle = -11;
+};
+dalethebrew = {
+ayinhebrew = 30;
+bethebrew = -70;
+dalethebrew = 30;
+gimelhebrew = -20;
+hehebrew = -20;
+kafhebrew = 60;
+lamedhebrew = 40;
+memhebrew = -20;
+nunhebrew = 40;
+yodhebrew = 40;
+zayinhebrew = 40;
 };
 e = {
 quoteright = -64;
@@ -62090,18 +62539,132 @@ c = -24;
 parenright = 20;
 quotesingle = 16;
 };
+finalkafhebrew = {
+alefhebrew = -30;
+bethebrew = -101;
+finalmemhebrew = -60;
+hethebrew = -40;
+memhebrew = -40;
+samekhhebrew = -60;
+tavhebrew = -40;
+vavhebrew = -60;
+};
+finalmemhebrew = {
+alefhebrew = 30;
+ayinhebrew = 30;
+gimelhebrew = 40;
+reshhebrew = 30;
+};
+finalpehebrew = {
+alefhebrew = -20;
+kafhebrew = 30;
+yodhebrew = 40;
+};
+finaltsadihebrew = {
+alefhebrew = -30;
+bethebrew = -91;
+finalmemhebrew = -40;
+finalpehebrew = -70;
+hehebrew = -50;
+kafhebrew = -30;
+memhebrew = -60;
+pehebrew = -30;
+reshhebrew = -30;
+samekhhebrew = -40;
+tavhebrew = -50;
+tethebrew = -60;
+};
+gimelhebrew = {
+alefhebrew = -60;
+ayinhebrew = -30;
+bethebrew = 20;
+finalnunhebrew = -70;
+finaltsadihebrew = -40;
+gimelhebrew = 30;
+kafhebrew = -30;
+lamedhebrew = -60;
+memhebrew = -10;
+qofhebrew = -40;
+samekhhebrew = -50;
+shinhebrew = -50;
+tavhebrew = -50;
+tethebrew = -60;
+tsadihebrew = -40;
+yodhebrew = -90;
+zayinhebrew = -50;
+};
 h = {
 quoteright = -104;
+};
+hehebrew = {
+alefhebrew = -40;
+ayinhebrew = 20;
+bethebrew = 30;
+gimelhebrew = 40;
+hehebrew = 20;
+nunhebrew = 40;
+pehebrew = 30;
+};
+hethebrew = {
+kafhebrew = 30;
+pehebrew = 30;
+tavhebrew = 20;
+vavhebrew = 30;
 };
 k = {
 c = -20;
 };
+kafhebrew = {
+gimelhebrew = 40;
+hehebrew = 30;
+memhebrew = 20;
+tavhebrew = 20;
+tethebrew = -40;
+};
+lamedhebrew = {
+alefhebrew = -20;
+ayinhebrew = 20;
+bethebrew = -120;
+dalethebrew = 40;
+finalnunhebrew = 0;
+finalpehebrew = -30;
+lamedhebrew = 40;
+nunhebrew = 20;
+yodhebrew = 20;
+};
 memhebrew = {
+alefhebrew = -60;
+ayinhebrew = -50;
+bethebrew = -40;
+finalkafhebrew = -50;
+finalnunhebrew = -90;
+finalpehebrew = -40;
+gimelhebrew = -30;
 hehebrew = -60;
+hethebrew = -20;
+kafhebrew = -30;
+lamedhebrew = -30;
+reshhebrew = -50;
+samekhhebrew = -60;
+shinhebrew = -70;
+tethebrew = -40;
+vavhebrew = -60;
+yodhebrew = -60;
+zayinhebrew = -10;
 };
 n = {
 quoteright = -120;
 quotesingle = -80;
+};
+nunhebrew = {
+alefhebrew = -20;
+bethebrew = 30;
+dalethebrew = 20;
+hehebrew = 40;
+kafhebrew = 20;
+lamedhebrew = 30;
+tethebrew = -10;
+vavhebrew = 20;
 };
 o = {
 quoteright = -112;
@@ -62115,8 +62678,21 @@ V = 20;
 W = 38;
 Y = 22;
 };
+pehebrew = {
+finalkafhebrew = -20;
+finalmemhebrew = 20;
+memhebrew = 30;
+pehebrew = 30;
+yodhebrew = 40;
+};
 period = {
 quotesingle = -285;
+};
+qofhebrew = {
+dalethebrew = 50;
+kafhebrew = 50;
+nunhebrew = 40;
+yodhebrew = 40;
 };
 quoteright = {
 c = -104;
@@ -62145,6 +62721,29 @@ t = 50;
 v = 18;
 w = 17;
 };
+reshhebrew = {
+ayinhebrew = 20;
+bethebrew = -70;
+dalethebrew = 40;
+finalmemhebrew = -50;
+finalnunhebrew = -40;
+reshhebrew = 30;
+samekhhebrew = -30;
+shinhebrew = 40;
+tavhebrew = -20;
+zayinhebrew = 20;
+};
+samekhhebrew = {
+alefhebrew = -30;
+};
+shinhebrew = {
+bethebrew = -20;
+finalmemhebrew = 20;
+kafhebrew = 40;
+nunhebrew = 40;
+pehebrew = 20;
+shinhebrew = 20;
+};
 slash = {
 slash = -248;
 };
@@ -62155,6 +62754,31 @@ t = {
 o = -30;
 quoteright = 24;
 };
+tavhebrew = {
+ayinhebrew = -40;
+finalnunhebrew = -30;
+finaltsadihebrew = -20;
+gimelhebrew = 30;
+kafhebrew = 20;
+lamedhebrew = -50;
+yodhebrew = -40;
+};
+tethebrew = {
+alefhebrew = -20;
+ayinhebrew = 40;
+kafhebrew = 30;
+memhebrew = 20;
+nunhebrew = 40;
+};
+tsadihebrew = {
+finalmemhebrew = -20;
+finalnunhebrew = -60;
+hethebrew = -40;
+kafhebrew = -40;
+tavhebrew = -20;
+tethebrew = -60;
+yodhebrew = -60;
+};
 v = {
 a = -15;
 c = -13;
@@ -62162,6 +62786,12 @@ f = 13;
 o = -15;
 period = -167;
 quotesingle = 15;
+};
+vavhebrew = {
+finalmemhebrew = -40;
+lamedhebrew = 50;
+nunhebrew = 40;
+samekhhebrew = -20;
 };
 w = {
 period = -124;
@@ -62171,11 +62801,34 @@ c = -20;
 o = -40;
 };
 yodhebrew = {
-memhebrew = -90;
+alefhebrew = -30;
+bethebrew = -80;
+dalethebrew = 50;
+finalmemhebrew = -40;
+finalpehebrew = -20;
+hehebrew = -40;
+hethebrew = -30;
+memhebrew = -50;
+tavhebrew = -30;
+tethebrew = -20;
+yodhebrew = 30;
 };
 z = {
 c = -16;
 o = -16;
+};
+zayinhebrew = {
+ayinhebrew = -20;
+bethebrew = -50;
+dalethebrew = 20;
+finalkafhebrew = -40;
+finalmemhebrew = -30;
+finalpehebrew = -20;
+kafhebrew = -40;
+nunhebrew = 20;
+samekhhebrew = -30;
+tavhebrew = -40;
+zayinhebrew = 40;
 };
 };
 "0FAE9C79-C14E-4D62-87C8-5A68E12B9849" = {
@@ -62534,7 +63187,7 @@ hehebrew = -50;
 kafhebrew = -50;
 lamedhebrew = -40;
 nunhebrew = -60;
-pehebrew = -20;
+pehebrew = 0;
 qofhebrew = -30;
 reshhebrew = -50;
 samekhhebrew = -60;
@@ -62548,7 +63201,14 @@ zayinhebrew = -60;
 };
 ayinhebrew = {
 alefhebrew = -10;
+dalethebrew = -40;
+finalnunhebrew = -50;
 finaltsadihebrew = -30;
+gimelhebrew = 20;
+hethebrew = 20;
+lamedhebrew = -50;
+vavhebrew = -20;
+yodhebrew = -70;
 zayinhebrew = -50;
 };
 b = {
@@ -62578,10 +63238,15 @@ quotesingle = -53;
 dalethebrew = {
 alefhebrew = -80;
 bethebrew = -90;
+finalkafhebrew = 20;
+finalmemhebrew = -30;
+finalnunhebrew = -20;
 finalpehebrew = -30;
+gimelhebrew = -30;
 hehebrew = -60;
 kafhebrew = -30;
-memhebrew = -20;
+memhebrew = -30;
+reshhebrew = -10;
 tethebrew = -30;
 };
 e = {
@@ -62602,10 +63267,18 @@ tavhebrew = -50;
 };
 finalmemhebrew = {
 alefhebrew = -30;
+finalmemhebrew = 30;
+hethebrew = 40;
 kafhebrew = 40;
+pehebrew = 40;
+samekhhebrew = 30;
+tavhebrew = 30;
 };
 finalnunhebrew = {
 alefhebrew = -60;
+dalethebrew = 30;
+lamedhebrew = 20;
+tavhebrew = -40;
 };
 finalpehebrew = {
 alefhebrew = -100;
@@ -62614,23 +63287,48 @@ bethebrew = -40;
 finaltsadihebrew = {
 alefhebrew = -80;
 bethebrew = -130;
+finalmemhebrew = -61;
+finalpehebrew = -100;
+gimelhebrew = -50;
 hehebrew = -80;
 hethebrew = -70;
 kafhebrew = -60;
+memhebrew = -60;
+nunhebrew = -40;
+pehebrew = -50;
+reshhebrew = -70;
+samekhhebrew = -50;
+tavhebrew = -80;
+tethebrew = -60;
 yodhebrew = -40;
 zayinhebrew = -40;
 };
 gimelhebrew = {
 alefhebrew = -40;
 bethebrew = 20;
+dalethebrew = 30;
+finalpehebrew = 30;
 hethebrew = 20;
+pehebrew = 50;
+reshhebrew = 20;
+yodhebrew = -50;
 };
 hehebrew = {
 alefhebrew = -60;
+lamedhebrew = 40;
+pehebrew = 30;
 };
 hethebrew = {
+ayinhebrew = 20;
+finalmemhebrew = 40;
 gimelhebrew = 20;
+hethebrew = 40;
 kafhebrew = 40;
+lamedhebrew = 30;
+pehebrew = 50;
+reshhebrew = 40;
+shinhebrew = 30;
+tavhebrew = 40;
 };
 hyphen = {
 T = -177;
@@ -62643,15 +63341,29 @@ o = -30;
 kafhebrew = {
 alefhebrew = -60;
 pehebrew = 20;
+shinhebrew = -30;
+tsadihebrew = -10;
 };
 lamedhebrew = {
 alefhebrew = -20;
 bethebrew = -40;
+finalkafhebrew = 20;
+finalmemhebrew = -30;
+pehebrew = 20;
+qofhebrew = 40;
 };
 memhebrew = {
-alefhebrew = -50;
+alefhebrew = -80;
+ayinhebrew = -60;
 bethebrew = -30;
-yodhebrew = -30;
+finalkafhebrew = -20;
+finalnunhebrew = -40;
+finalpehebrew = -30;
+kafhebrew = -30;
+samekhhebrew = -30;
+shinhebrew = -50;
+tethebrew = -20;
+yodhebrew = -50;
 zayinhebrew = -20;
 };
 n = {
@@ -62660,8 +63372,17 @@ quotesingle = -70;
 };
 nunhebrew = {
 alefhebrew = -40;
-bethebrew = 20;
+bethebrew = 40;
+dalethebrew = 30;
+finalkafhebrew = 10;
+gimelhebrew = 30;
+hehebrew = 30;
+kafhebrew = 30;
+lamedhebrew = 20;
 pehebrew = 30;
+tavhebrew = 20;
+vavhebrew = 20;
+yodhebrew = -40;
 };
 o = {
 quoteright = -88;
@@ -62678,9 +63399,17 @@ Y = 27;
 };
 pehebrew = {
 alefhebrew = -30;
+bethebrew = 20;
 dalethebrew = 20;
 finalkafhebrew = 30;
-kafhebrew = 30;
+gimelhebrew = 40;
+hehebrew = 30;
+hethebrew = 40;
+kafhebrew = 40;
+pehebrew = 40;
+samekhhebrew = 40;
+tethebrew = 40;
+yodhebrew = 40;
 };
 period = {
 quotesingle = -285;
@@ -62688,6 +63417,10 @@ quotesingle = -285;
 qofhebrew = {
 alefhebrew = -60;
 bethebrew = 10;
+finalpehebrew = 40;
+gimelhebrew = 20;
+lamedhebrew = 40;
+qofhebrew = 40;
 };
 quoteright = {
 c = -192;
@@ -62716,17 +63449,26 @@ w = 31;
 reshhebrew = {
 alefhebrew = -70;
 bethebrew = -50;
+dalethebrew = 50;
+finalnunhebrew = -40;
 hehebrew = -50;
+hethebrew = -40;
+memhebrew = -40;
+qofhebrew = 20;
+samekhhebrew = -20;
+tavhebrew = -40;
 };
 samekhhebrew = {
 alefhebrew = -60;
 bethebrew = -30;
+kafhebrew = 20;
 zayinhebrew = -30;
 };
 shinhebrew = {
 alefhebrew = -70;
 bethebrew = -30;
 hehebrew = -30;
+tethebrew = 40;
 };
 slash = {
 slash = -224;
@@ -62740,18 +63482,36 @@ quoteright = 40;
 t = 43;
 };
 tavhebrew = {
+ayinhebrew = -20;
 finalnunhebrew = -40;
+finaltsadihebrew = -30;
+hethebrew = 30;
+lamedhebrew = -50;
+pehebrew = 50;
+reshhebrew = 40;
+yodhebrew = -30;
 };
 tethebrew = {
 alefhebrew = -50;
 bethebrew = -20;
 kafhebrew = 40;
+pehebrew = 20;
+shinhebrew = 20;
+tethebrew = 30;
 };
 tsadihebrew = {
 alefhebrew = -50;
+bethebrew = -30;
+finalnunhebrew = -30;
 gimelhebrew = -30;
 hehebrew = -30;
+kafhebrew = -40;
+reshhebrew = -20;
+samekhhebrew = -40;
 shinhebrew = -30;
+tethebrew = -30;
+yodhebrew = -50;
+zayinhebrew = -20;
 };
 v = {
 a = -18;
@@ -62762,6 +63522,7 @@ period = -131;
 };
 vavhebrew = {
 alefhebrew = -60;
+finalkafhebrew = 40;
 finalpehebrew = -20;
 tavhebrew = -20;
 };
@@ -62774,18 +63535,27 @@ o = -36;
 };
 yodhebrew = {
 alefhebrew = -30;
-dalethebrew = 30;
+bethebrew = -40;
+dalethebrew = 90;
+finalnunhebrew = -20;
+finalpehebrew = -20;
+finaltsadihebrew = 40;
 lamedhebrew = 40;
-memhebrew = -10;
+memhebrew = -20;
+qofhebrew = 70;
 tavhebrew = -20;
+yodhebrew = 20;
 };
 z = {
 c = -20;
 o = -20;
 };
 zayinhebrew = {
-bethebrew = -30;
+alefhebrew = -80;
+bethebrew = -40;
 finalmemhebrew = -30;
+finalnunhebrew = -40;
+hehebrew = -20;
 samekhhebrew = -30;
 };
 };
